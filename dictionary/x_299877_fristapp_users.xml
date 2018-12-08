@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Users" max_length="40" name="x_299877_fristapp_users" type="collection">
+        <element label="Mobile" max_length="10" name="mobile" type="integer"/>
+        <element display="true" label="Name" max_length="55" name="name" type="string"/>
+        <element label="Password" max_length="55" name="password" type="password"/>
+    </element>
+</database>

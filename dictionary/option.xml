@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="label" max_length="40" name="option" type="collection">
+        <element label="Mobile" max_length="40" name="x_299877_fristapp_u_longint_3" type="longint"/>
+        <element attributes="edge_encryption_enabled=true" label="Enter Your Name" max_length="55" name="x_299877_fristapp_u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Enter Password" max_length="55" name="x_299877_fristapp_u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mobile" max_length="40" name="x_299877_fristapp_u_string_3" type="string"/>
+    </element>
+</database>
